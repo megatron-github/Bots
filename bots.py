@@ -2,12 +2,6 @@
  *****************************************************************************
    FILE:        bots.py
 
-   AUTHOR:      Truong Pham
-
-   ASSIGNMENT:  Project 9: Bots
-
-   DATE:        11/4/2018
-
    DESCRIPTION: Create two robots and draw them on the window. The two robots
                 had to move individually when each of them is clicked. The
                 clicked robot will move randomly (move in given direction, 
